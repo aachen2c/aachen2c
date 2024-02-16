@@ -10,7 +10,7 @@ I'm a data scientist (MDS) with a passion for neural network applications in dat
 ## 🔭 I’m currently working on
 - HuntShowdownLoadoutTracker - An image recognition-based AI tool for tracking player loadout and performance metrics over time for the game Hunt: Showdown. Made for my friends
 - Improving QA Model Performance with Cartographic Inoculation: Part 2 - Work-in-progress extension to a paper I wrote (https://arxiv.org/abs/2401.17498) in collaboration with another student during my time at UT Austin.
-- More projects can (eventually) be found in my repositories! 
+- Other projects, such as my work on CNN-based PyStk agents, can be found in my private repositories. These projects were submitted as part of my master's program, so under UT Austin's Academic Integrity rules I can't post their code publicly. 
 
 ## 🌱 I’m currently learning
 - SQL, via "SQL Notes for Professionals"
