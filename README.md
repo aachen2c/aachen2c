@@ -24,7 +24,7 @@ Feel free to ask me about the MSDS program at UT Austin, AI Language Models, dat
 - Email: allenchenmds@gmail.com
 
 ## ⚡ Fun fact
-I understand Russian and French, so if you prefer either one of those languages, feel free to use them !
+I understand Russian and French, so if you'd prefer to speak either one of those languages, feel free to use them with me !
 
 <!---
 aachen2c/aachen2c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
