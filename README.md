@@ -8,8 +8,8 @@ I'm a data scientist (MDS) with a passion for neural network applications in dat
 - Tools & Technologies: PyTorch, Pandas, NumPy, MatplotLib, Seaborn, ggplot2, shiny, dplyr, tibble, tidyr
 
 ## 🔭 I’m currently working on
-- HuntShowdownLoadoutTracker - An image recognition-based AI tool for tracking player loadout and performance metrics over time for the game Hunt: Showdown. Made for my friends.
 - Improving QA Model Performance with Cartographic Inoculation: Part 2 - Work-in-progress extension to a paper I wrote (https://arxiv.org/abs/2401.17498) in collaboration with another student during my time at UT Austin.
+- HuntShowdownLoadoutTracker - An image recognition-based AI tool for tracking player loadout and performance metrics over time for the videogame Hunt: Showdown. Made for my friends.
 - Other projects, such as my work on CNN-based PyStk agents, can be found in my private repositories. These projects were submitted as part of my master's program, so under UT Austin's Academic Integrity rules I can't post their code publicly. 
 
 ## 🌱 I’m currently learning
@@ -22,9 +22,6 @@ Feel free to ask me about the MSDS program at UT Austin, AI Language Models, dat
 ## 📫 How to reach me
 - LinkedIn: www.linkedin.com/in/allen-chen-mds
 - Email: allenchenmds@gmail.com
-
-## ⚡ Fun fact
-I understand Russian and French, so if you'd prefer to speak either one of those languages, feel free to use them with me !
 
 <!---
 aachen2c/aachen2c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
