@@ -1,7 +1,7 @@
 # Hello, I'm Allen ! 👋
 
 ## 🚀 About Me
-I'm a data scientist (MDS) with a passion for pragmatic, data-driven applications of neural networks. I love working on projects that make life easier for people and leverage lightweight and elegant solutions. Currently, I'm learning SQL and looking to collaborate on any data science projects involving SQL databases, natural language processing, or image recognition. 
+I'm a data scientist (MDS) with a passion for pragmatic, data-driven applications of neural network models. I love working on projects that make life easier for people and leverage lightweight and elegant solutions. Currently, I'm learning SQL and looking to collaborate on any data science projects involving SQL databases, natural language processing, or image recognition. 
 
 ## 🛠 Skills
 - Languages: Python, R, SQL
