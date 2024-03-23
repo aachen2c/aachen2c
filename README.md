@@ -13,10 +13,6 @@ I'm a data scientist (MDS) with a passion for neural network applications in dat
 - HuntShowdownLoadoutTracker - An image recognition-based AI tool for tracking player loadout and performance metrics over time for the videogame Hunt: Showdown. Made for my friends.
 - Other projects, such as my work on CNN-based PyStk agents, can be found in my private repositories. These projects were submitted as part of my master's program, so under UT Austin's Academic Integrity rules I can't post their code publicly. 
 
-## 🌱 I’m currently learning
-- SQL, via "SQL Notes for Professionals"
-- Keras and Tensorflow, via "Hands-On Machine-Learning with Scikit-learn, Keras, and Tensorflow"
-
 ## 💬 Ask me about
 Feel free to ask me about the MSDS program at UT Austin, AI Language Models, data visualization and modeling tips, or any of the projects I've worked on !
 
