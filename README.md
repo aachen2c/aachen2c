@@ -7,7 +7,7 @@ I'm a data scientist (MDS) with a passion for pragmatic, data-driven application
 - Languages: Python, R, SQL
 - Tools & Technologies: PyTorch, Pandas, NumPy, MatplotLib, Seaborn, ggplot2, shiny, dplyr, tibble, tidyr
 
-## 📫 How to reach me
+## How to reach me
 - LinkedIn: www.linkedin.com/in/allen-chen-mds
 - Email: allenchenmds@gmail.com
 
